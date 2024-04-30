@@ -18,8 +18,8 @@ library(readxl)
 # data importing, Cleaning and Preprocessing
 
 ```{r}
-rep_13 <- read_excel("~/Documents/Dolapo/new/ore/rep_13.xlsx")
-ev_13 <- read_excel("~/Documents/Dolapo/new/ore/ev_13.xlsx")
+rep_13 <- read_excel("C:/Users/Admin/Documents/Seun Ore/new/ore/rep_13.xlsx")
+ev_13 <- read_excel("C:/Users/Admin/Documents/Seun Ore/new/ore/ev_13.xlsx")
 
 summary(rep_13)
 summary(ev_13)
